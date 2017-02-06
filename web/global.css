@@ -1,0 +1,60 @@
+html, body {
+    height: 100%;
+}
+body {
+    display : table;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+footer {
+    display : table-row;
+    height: 100px;
+}
+
+.multi {
+    width: 300px;
+    height: 150px;
+}
+
+.menu_right {
+	float: right;
+}
+
+.date {
+	margin: 10px;
+}
+
+.inline {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.panel{
+	display: inline-block;
+	width: 70%;
+	margin-left: 3%;
+}
+
+.container{
+    width: inherit;
+}
+
+.footer_div {
+	display: -moz-inline-box;	
+}
+
+.search {
+	display: inline-flex;
+    margin-left: 10%;
+    margin-top: 8px;
+}
+
+.form_base {
+    display: inline-block;
+    margin-left: 40%;
+}
+
+.list {
+   	margin-left: 5%;
+}
